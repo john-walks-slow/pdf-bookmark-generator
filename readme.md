@@ -20,7 +20,7 @@ Options:
 
 `pdf-bm gen -i example.txt -o output.xml -s 1 6 `
 
-example.txt:
+example.txt
 ```txt
 Copyright ii
 Foreword iv
